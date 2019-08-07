@@ -10,7 +10,7 @@ This repo is meant to store relavent documents related to the effort by the Ethe
 
 ### Least Authority Software Audit Schedule
  - July 17 - August 14: Code review completed
- - August 16: Delivery of Initial Audit Report
+ - August 14: Delivery of Initial Audit Report
  - September 2 - 6: Verification completed
  - September 11: Delivery of Final Audit Report
 
